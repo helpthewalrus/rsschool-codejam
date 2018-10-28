@@ -1,0 +1,27 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "RSS codejam-3",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "lint": "eslint",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpthewalrus/rsschool-codejam.git"
+  },
+  "author": "Tylets Alina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helpthewalrus/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/helpthewalrus/rsschool-codejam#readme"
+}
