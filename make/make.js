@@ -10,3 +10,5 @@ const make = function make(...arg) {
   };
   return inner;
 };
+
+module.exports = make;
